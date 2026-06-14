@@ -12,11 +12,9 @@
 
 ## YouTube Link (Unlisted)
 
-The link is placed below:
+Watch the video:
 
-```bash
 [![Watch the video](https://i.ytimg.com/vi/Le1__bKaH4A/maxres3.jpg)](https://youtu.be/Le1__bKaH4A)
-````
 
 ## Program Explanation
 
