@@ -16,6 +16,12 @@ Click this video down below :D
 
 [![Watch the video](https://i.ytimg.com/vi/Le1__bKaH4A/maxres3.jpg)](https://youtu.be/Le1__bKaH4A)
 
+Or click here:
+
+```
+https://youtu.be/Le1__bKaH4A
+```
+
 ## Program Explanation
 
 ### Description
