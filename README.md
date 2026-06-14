@@ -1,6 +1,3 @@
-Here is the English version of the uploaded README content: 
-
-````markdown
 # Network Programming - Final Project [G04]
 
 ## Group Members
