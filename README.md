@@ -18,9 +18,7 @@ Click this video down below :D
 
 Or click here:
 
-```
 [https://youtu.be/Le1__bKaH4A](https://youtu.be/Le1__bKaH4A)
-```
 
 ## Program Explanation
 
