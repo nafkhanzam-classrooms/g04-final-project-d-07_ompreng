@@ -12,7 +12,7 @@
 
 ## YouTube Link (Unlisted)
 
-Watch the video:
+Click this video down below :D
 
 [![Watch the video](https://i.ytimg.com/vi/Le1__bKaH4A/maxres3.jpg)](https://youtu.be/Le1__bKaH4A)
 
