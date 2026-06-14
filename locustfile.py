@@ -1,0 +1,1 @@
+from tests.performance.locustfile import *
