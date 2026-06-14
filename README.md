@@ -15,7 +15,7 @@
 The link is placed below:
 
 ```bash
-https://youtu.be/Le1__bKaH4A
+[![Watch the video](https://i.ytimg.com/vi/Le1__bKaH4A/maxres3.jpg)](https://youtu.be/Le1__bKaH4A)
 ````
 
 ## Program Explanation
@@ -137,7 +137,7 @@ From the **Network Programming** perspective, MBG implements a client-server arc
 #### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/nafkhanzam-classrooms/g04-final-project-d-07_ompreng.git
 cd MBG
 ```
 
