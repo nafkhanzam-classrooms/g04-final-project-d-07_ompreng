@@ -8,7 +8,7 @@
 | --- | --- | --- |
 | Steven Alvin Christian | 5025241116 | D |
 | Andie Azril Alfrianto | 5025241054 | D |
-| Joaquin Fairuz Nawfal Ismono | 5025241054 | D |
+| Joaquin Fairuz Nawfal Ismono | 5025241106 | D |
 
 ## YouTube Link (Unlisted)
 
